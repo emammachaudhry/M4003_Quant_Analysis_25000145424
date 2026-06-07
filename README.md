@@ -11,6 +11,7 @@ This repository contains the code and datasets used for the quantitative analysi
 The quantitative analysis investigates employment and labour demand trends across selected UK digital occupations between 2021 and 2024.
 
 ## Repository Contents
+*The labour demand dataset exceeded GitHub's web upload limit. The notebook and employment dataset are provided, and the labour demand analysis was conducted using the dataset described in the report.
 
 ### employment_analysis.ipynb
 
@@ -34,10 +35,3 @@ Labour demand / vacancy dataset used in the analysis.
 
 The notebook and datasets included in this repository allow the quantitative analysis and figures presented in the accompanying academic report to be reproduced.
 
-## Author
-
-Emamma Chaudhry
-
-London Interdisciplinary School (LIS)
-
-2026
